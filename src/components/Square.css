@@ -1,0 +1,15 @@
+.square {
+    float:left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 50px;
+    width: 50px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 8px 15px;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    background-color: chartreuse;
+}
